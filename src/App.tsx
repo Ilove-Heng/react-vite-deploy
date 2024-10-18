@@ -18,7 +18,7 @@ function App() {
       <h1>Vite cool robot + React</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+          count cool is {count}
         </button>
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
